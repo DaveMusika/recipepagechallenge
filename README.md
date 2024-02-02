@@ -42,7 +42,7 @@ And here is my solution for the desktop ![](./desktopscreenshot.png) and mobile 
 
 ### What I learned
 
-I had a lot of things to learn in this project. For example, the use of <section>...</section> tag, <span>....</span>, creating styles within <h2>...</h> tags, making use of classes which I later used in CSS to deccorate specific html elements.
+I had a lot of things to learn in this project. For example, the use of <section>...</section> tag, <span>....</span>, creating styles within heading tags, making use of classes which I later used in CSS to deccorate specific html elements.
 
 
 ### Continued development
